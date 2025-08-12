@@ -1,0 +1,10 @@
+{
+	"id": "book-scanner",
+	"name": "Book ISBN Scanner",
+	"version": "1.0.0-alpha.1",
+	"minAppVersion": "0.14.6",
+	"description": "Book scanner plugin for Obsidian",
+	"author": "Maud Royer <hello@maudroyer.fr>",
+	"authorUrl": "https://maudroyer.fr/",
+	"isDesktopOnly": false
+}
